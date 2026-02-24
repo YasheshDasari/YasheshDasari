@@ -1,6 +1,6 @@
 # Hi there, I'm Yashesh Dasari 
 
-Microsoft-Certified Software Engineer | C#/.NET | Python | Java | REST | Distributed Systems | Regulated Software Development
+Microsoft-certified, IEC 62304-certified Software Engineer | C#/.NET | Python | Java | REST | Distributed Systems | Regulated Software Development
 
 📍 Toronto, Canada  
 📧 yasheshdasari@gmail.com  
